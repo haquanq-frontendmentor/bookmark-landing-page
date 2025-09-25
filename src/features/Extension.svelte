@@ -22,7 +22,7 @@
 
 <section class="flex flex-col items-center text-center">
   <h2 class="mb-[1.625rem] text-2xl leading-none md:text-[2rem]">Download the extension</h2>
-  <Paragraph xClass="mb-[3.375rem] max-w-144" --margin-block="0 3.375rem">
+  <Paragraph xClass="mb-[3.375rem] max-w-144">
     We’ve got more browsers in the pipeline. Please do let us know if you’ve got a favourite you’d like us to
     prioritize.
   </Paragraph>
