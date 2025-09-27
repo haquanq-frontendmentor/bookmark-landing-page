@@ -5,7 +5,7 @@
 <footer class="bg-blue-950 [--focus-outline-color:var(--color-white)]">
   <Container>
     <div class="flex flex-col items-center gap-x-16 gap-y-10 py-10 md:flex-row md:gap-x-16 md:pt-8 md:pb-[1.9375rem]">
-      <a class="home-link" href="/" aria-current="page" aria-label="Homepage">
+      <a class="home-link" href="" aria-current="page" aria-label="Homepage">
         <svg width="148" height="25" xmlns="http://www.w3.org/2000/svg">
           <g fill="none" fill-rule="evenodd">
             <path
@@ -24,15 +24,15 @@
         <ul
           class="[&_a]:text-grey-100 flex flex-col gap-x-12 gap-y-8 text-[0.9375rem] tracking-[0.11em] uppercase md:flex-row md:gap-11 md:text-[0.8125rem] [&_a]:transition-colors [&_a]:hover:text-red-400"
         >
-          <li><a href="/">Features</a></li>
-          <li><a href="/">Pricing</a></li>
-          <li class="md:ml-[0.125rem]"><a href="/">Contact</a></li>
+          <li><a href="">Features</a></li>
+          <li><a href="">Pricing</a></li>
+          <li class="md:ml-[0.125rem]"><a href="">Contact</a></li>
         </ul>
       </nav>
       <div
         class="flex gap-10 text-white *:flex *:items-center *:justify-center *:transition-colors *:hover:text-red-400"
       >
-        <a class="socials__link" href="/" aria-label="Facebook">
+        <a class="socials__link" href="" aria-label="Facebook">
           <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24"
             ><path
               fill="currentColor"
@@ -41,7 +41,7 @@
             /></svg
           >
         </a>
-        <a class="socials__link" href="/" aria-label="Twitter">
+        <a class="socials__link" href="" aria-label="Twitter">
           <svg xmlns="http://www.w3.org/2000/svg" width="24" height="20"
             ><path
               fill="currentColor"

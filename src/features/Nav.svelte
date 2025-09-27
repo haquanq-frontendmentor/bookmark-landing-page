@@ -27,7 +27,7 @@
 <nav>
   <Container>
     <div class="flex items-center justify-between py-12 md:pl-[0.375rem]">
-      <a class="relative z-100" href="/" aria-current="page" aria-label="Homepage">
+      <a class="relative z-100" href="" aria-current="page" aria-label="Homepage">
         <svg width="148" height="25" xmlns="http://www.w3.org/2000/svg">
           <g fill="none" fill-rule="evenodd">
             <path
@@ -77,13 +77,13 @@
         <ul
           class="*:border-grey-500 md:text-grey-500 text-grey-50 text-xl tracking-[0.11em] uppercase *:flex *:w-full *:justify-center *:border-t *:pt-[1.275rem] *:pb-[1.4375rem] md:flex md:items-center md:gap-11 md:text-[0.8125rem] *:md:border-none *:md:p-0 [&_a]:transition-colors"
         >
-          <li><a class="md:pt-[0.125rem] md:hover:text-red-400" href="/">Features</a></li>
-          <li><a class="md:pt-[0.125rem] md:hover:text-red-400" href="/">Pricing</a></li>
-          <li><a class="md:ml-[0.1875rem] md:pt-[0.125rem] md:hover:text-red-400" href="/">Contact</a></li>
+          <li><a class="md:pt-[0.125rem] md:hover:text-red-400" href="">Features</a></li>
+          <li><a class="md:pt-[0.125rem] md:hover:text-red-400" href="">Pricing</a></li>
+          <li><a class="md:ml-[0.1875rem] md:pt-[0.125rem] md:hover:text-red-400" href="">Contact</a></li>
           <li>
             <a
               class="border-grey-50 text-grey-50 hover:bg-grey-50 w-full rounded-sm border-2 py-3 text-center leading-none font-medium transition-colors hover:text-blue-950 md:ml-1 md:border-red-400 md:bg-red-400 md:px-[1.9375rem] md:pt-3 md:pb-[0.6875rem] md:hover:text-red-400"
-              href="/">LOGIN</a
+              href="">LOGIN</a
             >
           </li>
         </ul>
