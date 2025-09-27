@@ -9,11 +9,11 @@
   <div
     class="grid min-h-127 gap-x-[clamp(5rem,-3.4375rem+17.5781vw,7.8125rem)] gap-y-20 pt-18 md:grid-cols-[1fr_min(100%,27.8125rem)]"
   >
-    <div class="relative flex justify-center md:justify-end">
+    <div class="relative flex items-start justify-center md:justify-end">
       <span
         class="absolute right-[clamp(2rem,-2.0553rem+17.3028vw,6.25rem)] bottom-[clamp(-4rem,-0.0916rem+-8.1425vw,-2rem)] -left-80 block h-[90%] rounded-r-full bg-blue-600 md:right-[4.125rem] md:bottom-0 md:h-88"
       ></span>
-      <img class="z-10 md:max-h-fit md:max-w-[500%]" src={image} alt="" />
+      <img class="z-10 md:max-w-[500%]" src={image} alt="" />
     </div>
     <section class="flex flex-col items-center md:items-start md:pt-[4.125rem] md:text-start">
       <h3
