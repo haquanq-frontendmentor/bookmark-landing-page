@@ -1,7 +1,7 @@
 <script lang="ts">
-  import Paragraph from "../components/base/Paragraph.svelte";
-  import Accordion from "../components/Accordion/Accordion.svelte";
-  import Button from "../components/base/Button.svelte";
+  import Paragraph from "./common/Paragraph.svelte";
+  import Button from "./common/Button.svelte";
+  import Accordion from "./Accordion/Accordion.svelte";
 
   const faqs: { question: string; answer: string }[] = [
     {

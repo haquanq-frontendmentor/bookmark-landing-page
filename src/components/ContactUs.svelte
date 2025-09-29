@@ -1,7 +1,7 @@
 <script lang="ts">
   import type { Attachment } from "svelte/attachments";
-  import Button from "../components/base/Button.svelte";
-  import TextField from "../components/Form/TextField.svelte";
+  import Button from "./common/Button.svelte";
+  import TextField from "./form/TextField.svelte";
 
   const formAttachment: Attachment<HTMLFormElement> = (form) => {
     form.addEventListener("submit", (e) => {

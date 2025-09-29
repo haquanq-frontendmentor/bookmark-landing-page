@@ -1,8 +1,8 @@
 <script lang="ts">
   import { Tab1Illustration, Tab2Illustration, Tab3Illustration } from "../assets/images";
-  import Button from "../components/base/Button.svelte";
-  import Paragraph from "../components/base/Paragraph.svelte";
-  import { Tab, TabButton, TabList, TabPanel } from "../components/Tab";
+  import Button from "./common/Button.svelte";
+  import Paragraph from "./common/Paragraph.svelte";
+  import { Tab, TabButton, TabList, TabPanel } from "./Tab";
 </script>
 
 {#snippet FeatureItem(label: string, description: string, image: string)}

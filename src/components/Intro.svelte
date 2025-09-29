@@ -1,7 +1,7 @@
 <script lang="ts">
   import { HeroIllustration } from "../assets/images";
-  import Button from "../components/base/Button.svelte";
-  import Paragraph from "../components/base/Paragraph.svelte";
+  import Button from "./common/Button.svelte";
+  import Paragraph from "./common/Paragraph.svelte";
   import Container from "../layouts/Container.svelte";
 </script>
 

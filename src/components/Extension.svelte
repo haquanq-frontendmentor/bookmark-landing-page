@@ -1,6 +1,6 @@
 <script lang="ts">
-  import Paragraph from "../components/base/Paragraph.svelte";
-  import Button from "../components/base/Button.svelte";
+  import Paragraph from "./common/Paragraph.svelte";
+  import Button from "./common/Button.svelte";
 
   import ChromeLogo from "../assets/images/logo-chrome.svg";
   import FirefoxLogo from "../assets/images/logo-firefox.svg";
