@@ -27,7 +27,7 @@
 <nav>
   <Container>
     <div class="flex items-center justify-between py-12 md:pl-[0.375rem]">
-      <a class="relative z-100" href="" aria-current="page" aria-label="Homepage">
+      <a class="relative z-100" href="" aria-label="Homepage">
         <svg width="148" height="25" xmlns="http://www.w3.org/2000/svg">
           <g fill="none" fill-rule="evenodd">
             <path
