@@ -1,0 +1,15 @@
+{
+  "name": "Bookmark Landing Page",
+  "featured": false,
+  "colors:": {
+    "brand": "#5266DF"
+  },
+  "images": {
+    "preview": "https://raw.githubusercontent.com/haquanq-frontendmentor/bookmark-landing-page/main/docs/preview.jpg"
+  },
+  "frontendmentor": {
+    "difficulty": "intermediate",
+    "challengeUrl": "https://www.frontendmentor.io/challenges/bookmark-landing-page-5d0b588a9edda32581d29158",
+    "solutionUrl": "https://www.frontendmentor.io/solutions/mobile-first-responsive-with-pixel-perfect-2tpwkGoHf1"
+  }
+}
